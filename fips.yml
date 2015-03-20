@@ -1,0 +1,6 @@
+# fips-stb
+---
+
+exports:
+    header-dirs:
+        - stb
